@@ -21,7 +21,7 @@ define('WP_SITEURL','http://wordpresslb-748575282.us-east-1.elb.amazonaws.com/')
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress2');
+define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
 define('DB_USER', 'wordpress');
